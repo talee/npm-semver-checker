@@ -28,12 +28,15 @@ function App() {
           </label>
         </section>
         <h3 className={hasMatched ? 'valid' : 'invalid'}>{hasMatched ? '✓ Matched Version' : '𝗫 Unmatched Version'}</h3>
-        <p className='docs'>
-          <a href='https://docs.npmjs.com/misc/semver#prerelease-tags' target='_blank' rel="noopener noreferrer">Documentation</a> on how NPM semver for prereleases is implemented
-        </p>
+        <div className='docs'>
+          <p>Checks whether a version matches the range specified in NPM.</p>
+          <span>
+            <a href='https://docs.npmjs.com/misc/semver#prerelease-tags' target='_blank' rel='noopener noreferrer'>Documentation</a> on how NPM semver for prereleases is implemented.
+          </span>
+        </div>
       </header>
       <p>Made with <span role='img' aria-label='red heart'>❤️</span>️ in San Francisco</p>
-      <p>Written by Thomas Lee</p>
+      <p>Written by <a className='dark' href='https://tlee.io' target='_blank'  rel='noopener noreferrer'>Thomas Lee</a></p>
     </div>
   )
 }

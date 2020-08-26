@@ -18,6 +18,9 @@ h1 {
 a {
   color: #61dafb;
 }
+a.dark {
+  color: #2a91ad;
+}
 label {
   display: flex;
   justify-content: space-between;
@@ -37,5 +40,9 @@ input {
   color: #f59393;
 }
 .docs {
-  margin-top: 2rem;
+  display: flex;
+  text-align: start;
+  justify-content: center;
+  flex-direction: column;
+  margin: 6rem 5vw 0;
 }
