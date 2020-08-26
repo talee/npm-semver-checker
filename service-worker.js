@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/npm-semver-checker/precache-manifest.5d5785013ad49d835b4de863b596dd98.js"
+  "/npm-semver-checker/precache-manifest.ce135cf72a2edd3f8192ac6d616202bb.js"
 );
 
 self.addEventListener('message', (event) => {

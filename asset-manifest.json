@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/npm-semver-checker/static/css/main.0580d476.chunk.css",
-    "main.js": "/npm-semver-checker/static/js/main.a9444f5c.chunk.js",
-    "main.js.map": "/npm-semver-checker/static/js/main.a9444f5c.chunk.js.map",
+    "main.css": "/npm-semver-checker/static/css/main.72c1aebf.chunk.css",
+    "main.js": "/npm-semver-checker/static/js/main.f1779452.chunk.js",
+    "main.js.map": "/npm-semver-checker/static/js/main.f1779452.chunk.js.map",
     "runtime-main.js": "/npm-semver-checker/static/js/runtime-main.4492cf01.js",
     "runtime-main.js.map": "/npm-semver-checker/static/js/runtime-main.4492cf01.js.map",
     "static/js/2.b716732f.chunk.js": "/npm-semver-checker/static/js/2.b716732f.chunk.js",
     "static/js/2.b716732f.chunk.js.map": "/npm-semver-checker/static/js/2.b716732f.chunk.js.map",
     "index.html": "/npm-semver-checker/index.html",
-    "precache-manifest.5d5785013ad49d835b4de863b596dd98.js": "/npm-semver-checker/precache-manifest.5d5785013ad49d835b4de863b596dd98.js",
+    "precache-manifest.ce135cf72a2edd3f8192ac6d616202bb.js": "/npm-semver-checker/precache-manifest.ce135cf72a2edd3f8192ac6d616202bb.js",
     "service-worker.js": "/npm-semver-checker/service-worker.js",
-    "static/css/main.0580d476.chunk.css.map": "/npm-semver-checker/static/css/main.0580d476.chunk.css.map",
+    "static/css/main.72c1aebf.chunk.css.map": "/npm-semver-checker/static/css/main.72c1aebf.chunk.css.map",
     "static/js/2.b716732f.chunk.js.LICENSE.txt": "/npm-semver-checker/static/js/2.b716732f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4492cf01.js",
     "static/js/2.b716732f.chunk.js",
-    "static/css/main.0580d476.chunk.css",
-    "static/js/main.a9444f5c.chunk.js"
+    "static/css/main.72c1aebf.chunk.css",
+    "static/js/main.f1779452.chunk.js"
   ]
 }
